@@ -48,8 +48,20 @@ nav a {
     margin-right: 25px;
 }
 
-nav a:hover {
+#one:hover {
     color: darkred;
+}
+
+#two:hover {
+    color: goldenrod;
+}
+
+#three:hover {
+    color: blue;
+}
+
+#four:hover {
+    color: black;
 }
 
 #banner {
@@ -83,4 +95,9 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+footer {
+    border: 1px solid rgb(187, 187, 166);
+    background-color: rgb(219, 217, 177);
 }
